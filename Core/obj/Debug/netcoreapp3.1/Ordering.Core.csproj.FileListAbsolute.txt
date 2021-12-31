@@ -1,0 +1,9 @@
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\bin\Debug\netcoreapp3.1\Ordering.Core.deps.json
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\obj\Debug\netcoreapp3.1\Ordering.Core.csprojAssemblyReference.cache
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\obj\Debug\netcoreapp3.1\Ordering.Core.csproj.CoreCompileInputs.cache
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfoInputs.cache
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfo.cs
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\obj\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Core\obj\Debug\netcoreapp3.1\Ordering.Core.pdb

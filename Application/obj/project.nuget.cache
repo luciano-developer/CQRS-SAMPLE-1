@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eePr75U6VfZcKcR7xv8f8WCNuYEoV9dbBIpSFq0uOEYWcr3dBv/kV6jk9ymkD51amBKe6WR2t3P4WQXgbAGvXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minha\\OneDrive\\Documentos\\Visual Studio 2019\\Projetos\\CQRS\\Ecommerce\\Application\\Ordering.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minha\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\minha\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\minha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\minha\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

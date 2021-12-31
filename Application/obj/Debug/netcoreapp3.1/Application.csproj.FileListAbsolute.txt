@@ -1,0 +1,5 @@
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\minha\OneDrive\Documentos\Visual Studio 2019\Projetos\CQRS\Ecommerce\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
